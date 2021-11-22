@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {I}Introduction}{1}{section.1}% 
+\contentsline {section}{\numberline {II}Literature Review}{1}{section.2}% 
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}Ethical Issues}{1}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Advntages and Disadvantages}{1}{subsection.2.2}% 
+\contentsline {section}{\numberline {III}Implmentation}{1}{section.3}% 
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}User Interaction}{1}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}User Experience}{1}{subsection.3.2}% 
+\contentsline {section}{\numberline {IV}Libraries and Resources}{1}{section.4}% 
+\contentsline {section}{\numberline {V}Conclusion}{1}{section.5}% 
+\contentsline {section}{\numberline {VI}Terminology}{1}{section.6}% 
+\contentsline {section}{\numberline {VII}Reference List}{1}{section.7}% 
